@@ -11,4 +11,4 @@ And... if you like veggie recipes then go ahead, cklick the link below and enjoy
 
 ## Link to my Happy Meal Cookbook
 
-happymeal-cookbook.netlify.app
+[https://happymeal-cookbook.netlify.app/)
