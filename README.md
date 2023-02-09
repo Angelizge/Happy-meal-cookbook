@@ -11,4 +11,4 @@ And... if you like veggie recipes then go ahead, cklick the link below and enjoy
 
 ## Link to my Happy Meal Cookbook
 
-https://lucent-donut-6ae63b.netlify.app/cookbook.html
+happymeal-cookbook.netlify.app
