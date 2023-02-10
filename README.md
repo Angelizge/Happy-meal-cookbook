@@ -1,4 +1,4 @@
-# Happy Meal Cookbook
+# Happy Meal Cookbook - HTML project
 
 I am so happy to share my first **HTML and CSS project**! 
 
